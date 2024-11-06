@@ -1,0 +1,11 @@
+# To install: sudo apt-get install python3-venv
+
+# Go to the location where virtual environment is to be created. Then type: python3 -m venv env01-mkdocs
+
+# Check: ls
+
+# Activate: source env01-mkdocs/bin/activate
+
+# Check installed packages: pip list
+
+# Decativate: deactivate
